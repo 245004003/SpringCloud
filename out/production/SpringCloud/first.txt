@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+wo shi he hui yi
+=======
+ wo shi he hui er
+>>>>>>> origin/branch2
