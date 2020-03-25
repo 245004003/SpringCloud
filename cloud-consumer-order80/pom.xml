@@ -13,7 +13,10 @@
     <artifactId>cloud-consumer-order80</artifactId>
     <description>订单消费者</description>
     <dependencies>
-
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
         <dependency>
             <groupId>com.newer.springcloud</groupId>
             <artifactId>cloud-api-commons</artifactId>
